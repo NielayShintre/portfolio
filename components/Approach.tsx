@@ -13,11 +13,11 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
-          title="Planning & Strategy"
+          title="AI-Powered Strategy & Planning"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your web app's vision, target audience, 
-          and key functionalities. We'll discuss things like user experience, 
-          architecture and content strategy"
+          des="We begin with a deep dive into your vision, target audience, and business goals. 
+          Whether you need an AI-driven SaaS platform, a smart chatbot, or just a web app, 
+          I'll outline a roadmap to bring your idea to life."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,11 +26,11 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Full-Stack AI Development & Prototyping"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="With a solid strategy in place, I develop your AI-powered application using the latest 
+          technologies. You'll receive regular updates, interactive prototypes, and a transparent 
+          development process to ensure everything aligns with your needs."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -48,11 +48,11 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
+          title="Launch & AI Optimization"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on your approved design, 
-          I'll translate everything into functional code, building your web app
-          from the ground up and making it live."
+          des="Your AI application goes live! I handle deployment, performance tuning, and AI model 
+          optimization to ensure smooth operation. Post-launch, I provide ongoing support and 
+          enhancements to keep your app ahead of the curve."
         >
           <CanvasRevealEffect
             animationSpeed={3}
