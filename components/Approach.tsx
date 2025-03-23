@@ -15,8 +15,8 @@ const Approach = () => {
         <Card
           title="AI-Powered Strategy & Planning"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We begin with a deep dive into your vision, target audience, and business goals. 
-          Whether you need an AI-driven SaaS platform, a smart chatbot, or just a web app, 
+          des="We deep dive into your vision, target audience, and business goals. 
+          Whether you need an AI-driven SaaS platform, a smart chatbot/AI agent, or just a web app, 
           I'll outline a roadmap to bring your idea to life."
         >
           <CanvasRevealEffect
